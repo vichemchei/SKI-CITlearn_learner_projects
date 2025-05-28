@@ -1,0 +1,151 @@
+Customer ID,Age,Gender,Employment Status,Annual Income,Credit Score,Loan Amount Requested,Existing Debt,Loan Purpose,Marital Status,Homeownership Status,Number of Dependents,Education Level,Years of Employment,Bank Account Status,Savings Account,Debt-to-Income Ratio,Loan Approved (Target),Number of Credit Inquiries,Employment Type,Monthly Expenses,Credit Utilization,Risk Score,Country,Residential Area,Previous Loan Defaults,Employment Length at Current Job,Monthly Rent/Mortgage,Current Loan Balance,Previous Loan Amount
+1,58,Male,Employed,117196,720,17049,7314,Home,Divorced,Rent,5,High School,18,Inactive,Yes,0.06,Yes,1,Full-time,3298,22,High,USA,Rural,No,7,2339,19309,19231
+2,18,Male,Retired,64597,722,11189,7055,Education,Single,Rent,3,High School,11,Inactive,No,0.33,No,4,Full-time,4985,34,Low,USA,Rural,No,20,1981,18918,13601
+3,63,Male,Employed,106673,696,19965,2614,Home,Single,Own,2,PhD,20,Inactive,Yes,0.18,Yes,5,Self-employed,3874,14,High,USA,Rural,Yes,17,1502,5354,31294
+4,42,Female,Self-Employed,109733,746,4665,7505,Car,Married,Own,2,High School,6,Inactive,Yes,0.28,No,5,Unemployed,1585,26,Low,USA,Urban,No,18,2254,19121,27175
+5,41,Male,Self-Employed,86784,832,6957,1543,Car,Single,Rent,5,PhD,19,Active,No,0.18,No,4,Self-employed,4977,45,Low,USA,Rural,Yes,17,1592,21003,23293
+6,25,Female,Retired,40730,812,1212,8630,Business,Single,Rent,5,Master's,26,Active,Yes,0.18,Yes,4,Full-time,3453,30,Medium,USA,Urban,Yes,11,1759,7846,4796
+7,33,Male,Employed,115932,828,5535,17455,Home,Single,Own,4,Bachelor's,8,Inactive,Yes,0.38,Yes,5,Self-employed,2634,33,Medium,USA,Rural,No,3,1515,7362,5196
+8,39,Male,Self-Employed,97128,692,1471,2326,Travel,Divorced,Rent,1,High School,28,Active,No,0.07,Yes,2,Unemployed,1877,44,Low,USA,Rural,No,7,2437,13338,13478
+9,24,Male,Retired,66438,796,27941,15303,Travel,Single,Rent,0,PhD,23,Inactive,Yes,0.14,Yes,4,Unemployed,1574,37,Low,USA,Suburban,No,7,808,14520,37066
+10,24,Male,Employed,32224,701,11899,13317,Medical,Married,Rent,3,High School,5,Inactive,Yes,0.39,No,3,Self-employed,2732,45,High,USA,Rural,No,4,1277,9722,15267
+11,21,Male,Unemployed,27492,605,39284,15623,Business,Divorced,Rent,0,High School,27,Active,Yes,0.26,Yes,3,Full-time,4856,46,Low,USA,Rural,Yes,19,835,13737,44081
+12,55,Female,Unemployed,46772,740,16642,8703,Medical,Single,Own,3,Master's,29,Active,Yes,0.21,Yes,0,Part-time,3072,26,Low,USA,Suburban,Yes,7,2013,9338,11338
+13,46,Female,Employed,107538,733,44475,3394,Home,Married,Rent,0,Bachelor's,8,Inactive,Yes,0.3,Yes,5,Self-employed,3070,41,Medium,USA,Urban,Yes,20,2234,9066,3889
+14,18,Female,Self-Employed,103507,714,11589,14478,Business,Divorced,Own,4,High School,3,Active,Yes,0.24,No,4,Part-time,2760,18,Low,USA,Suburban,No,1,1965,6883,45699
+15,33,Male,Unemployed,93385,788,41675,5064,Home,Single,Rent,3,High School,5,Inactive,No,0.33,Yes,2,Part-time,4225,16,Medium,USA,Urban,No,7,1317,15083,23915
+16,37,Male,Self-Employed,23101,678,27113,10756,Education,Single,Own,2,PhD,21,Inactive,Yes,0.09,No,1,Self-employed,1156,16,High,USA,Suburban,No,10,2287,19864,34516
+17,25,Female,Self-Employed,53386,602,47450,14288,Car,Divorced,Rent,2,PhD,2,Inactive,No,0.28,Yes,5,Self-employed,3077,29,High,USA,Suburban,No,12,1711,18166,9341
+18,30,Female,Retired,108777,669,41338,18648,Education,Married,Rent,2,Master's,6,Inactive,No,0.21,No,5,Part-time,3093,40,High,USA,Urban,Yes,9,2611,21753,42480
+19,57,Female,Employed,118453,700,45092,10171,Home,Single,Rent,0,High School,7,Inactive,Yes,0.21,Yes,5,Unemployed,3024,35,Low,USA,Urban,Yes,3,2241,7170,12526
+20,62,Female,Employed,93060,707,8953,14957,Home,Married,Own,3,PhD,26,Inactive,Yes,0.31,No,3,Self-employed,4079,25,High,USA,Suburban,No,20,1479,8998,29827
+21,22,Female,Self-Employed,55614,751,21952,17699,Car,Single,Rent,1,PhD,22,Active,Yes,0.07,No,2,Unemployed,2703,13,Low,USA,Suburban,No,18,580,18864,25928
+22,48,Male,Unemployed,59139,779,28460,17636,Travel,Divorced,Rent,3,Bachelor's,8,Inactive,No,0.06,No,5,Unemployed,3966,20,Medium,USA,Urban,Yes,12,2924,18493,44450
+23,19,Male,Retired,37786,816,12909,1647,Education,Married,Own,1,PhD,10,Inactive,No,0.15,No,2,Full-time,2926,11,High,USA,Rural,Yes,11,1418,21303,5496
+24,59,Male,Employed,52411,682,2335,4993,Home,Single,Own,5,High School,18,Active,No,0.29,No,1,Full-time,4185,20,Medium,USA,Urban,Yes,9,2858,22195,25596
+25,43,Male,Employed,97607,704,7678,9882,Travel,Divorced,Rent,4,High School,11,Inactive,No,0.07,No,0,Unemployed,4368,41,Low,USA,Suburban,No,20,2383,23177,11026
+26,45,Male,Unemployed,100728,827,31465,14272,Travel,Divorced,Own,2,Bachelor's,26,Active,No,0.36,Yes,3,Unemployed,2377,11,Medium,USA,Suburban,Yes,15,1368,11626,17931
+27,39,Female,Unemployed,92848,585,34857,6260,Car,Single,Own,3,Bachelor's,22,Inactive,No,0.21,Yes,0,Self-employed,1907,35,High,USA,Urban,No,18,2011,15507,37272
+28,51,Female,Retired,117771,749,24056,14868,Education,Married,Own,1,High School,23,Active,No,0.09,Yes,1,Part-time,4025,40,Medium,USA,Rural,No,3,1295,9707,15908
+29,41,Male,Unemployed,21854,644,18977,1491,Car,Divorced,Own,5,Bachelor's,20,Inactive,Yes,0.36,No,3,Unemployed,2804,31,Low,USA,Urban,No,15,967,2141,27260
+30,49,Male,Employed,39887,656,37886,9956,Car,Single,Rent,4,PhD,19,Active,No,0.21,No,2,Unemployed,2250,46,High,USA,Urban,Yes,6,1364,8671,44281
+31,23,Male,Self-Employed,42782,618,11258,87,Medical,Married,Own,2,High School,7,Inactive,No,0.3,No,0,Part-time,4784,26,High,USA,Rural,Yes,13,970,17844,15733
+32,59,Male,Unemployed,38643,616,4908,5436,Education,Divorced,Own,3,High School,14,Inactive,No,0.38,No,3,Full-time,3449,12,Medium,USA,Rural,No,19,1525,847,6985
+33,32,Male,Unemployed,95529,600,12481,15417,Business,Divorced,Own,2,Bachelor's,18,Inactive,No,0.39,No,2,Unemployed,2365,30,High,USA,Urban,Yes,10,2186,22730,33471
+34,36,Female,Employed,79614,625,21612,8270,Education,Single,Own,4,High School,21,Inactive,No,0.07,No,4,Unemployed,3561,38,Low,USA,Urban,No,17,1036,9438,29712
+35,62,Female,Employed,23783,702,47516,5189,Education,Divorced,Rent,4,PhD,2,Active,Yes,0.21,Yes,5,Part-time,3041,28,High,USA,Rural,No,13,2476,15473,16973
+36,47,Male,Retired,44983,840,49909,4473,Car,Married,Own,2,Master's,26,Active,No,0.3,No,1,Unemployed,3206,40,Medium,USA,Suburban,No,14,1818,6181,46711
+37,33,Female,Self-Employed,73841,602,21852,15498,Travel,Married,Own,5,Bachelor's,15,Active,Yes,0.23,No,0,Unemployed,1408,43,Medium,USA,Urban,Yes,13,1132,2451,31768
+38,34,Female,Retired,105175,621,22532,17485,Medical,Married,Own,4,High School,19,Active,Yes,0.27,No,1,Full-time,2777,16,High,USA,Rural,Yes,14,1181,22741,20625
+39,19,Male,Unemployed,27355,730,24492,12282,Medical,Single,Rent,4,PhD,18,Active,Yes,0.11,No,4,Part-time,3038,47,Low,USA,Urban,No,20,1540,15059,17733
+40,60,Male,Retired,57700,660,5840,14474,Education,Divorced,Own,5,PhD,22,Inactive,No,0.35,Yes,3,Unemployed,1436,25,Medium,USA,Rural,No,18,1711,22913,20348
+41,19,Female,Unemployed,21061,605,40741,16276,Education,Single,Own,1,Bachelor's,19,Inactive,Yes,0.27,Yes,2,Unemployed,1136,47,Medium,USA,Rural,Yes,2,1708,10705,49986
+42,44,Male,Self-Employed,37322,767,35789,16442,Education,Single,Own,3,Master's,23,Inactive,Yes,0.21,Yes,1,Part-time,4523,35,High,USA,Suburban,Yes,12,557,8665,36164
+43,25,Female,Unemployed,108188,714,39309,12485,Travel,Married,Rent,5,Bachelor's,15,Active,No,0.37,Yes,5,Full-time,3602,39,High,USA,Suburban,No,3,1072,1485,3438
+44,37,Female,Employed,32739,700,36228,4445,Medical,Married,Own,5,PhD,18,Active,No,0.28,No,4,Unemployed,4846,27,Low,USA,Rural,No,6,2316,14571,16473
+45,41,Male,Unemployed,91364,763,4968,13046,Education,Single,Rent,3,High School,21,Active,Yes,0.07,No,1,Part-time,4223,46,Low,USA,Urban,Yes,18,1384,7634,22532
+46,27,Male,Unemployed,38964,646,36403,8213,Home,Single,Rent,1,High School,11,Active,No,0.06,No,0,Part-time,4038,36,High,USA,Urban,Yes,15,2336,11863,34635
+47,55,Male,Retired,86039,693,41311,1420,Travel,Divorced,Own,3,High School,1,Inactive,No,0.2,Yes,3,Unemployed,1301,15,Medium,USA,Rural,Yes,2,1016,9011,41915
+48,58,Female,Retired,98301,730,30734,16565,Business,Married,Rent,5,High School,27,Active,No,0.21,Yes,3,Self-employed,4389,39,Medium,USA,Suburban,Yes,10,2248,10240,44588
+49,34,Female,Self-Employed,110023,822,5399,2989,Car,Single,Own,0,Master's,25,Active,Yes,0.26,No,5,Full-time,2682,32,High,USA,Suburban,Yes,9,2959,10238,24045
+50,24,Male,Self-Employed,106079,826,15696,3546,Education,Divorced,Own,0,Master's,18,Active,No,0.35,Yes,4,Self-employed,1118,21,Medium,USA,Rural,No,10,1937,200,12888
+51,27,Female,Employed,38595,595,7013,17382,Home,Married,Own,3,Master's,5,Inactive,No,0.3,Yes,0,Part-time,1644,49,Low,USA,Rural,Yes,8,2314,21690,28788
+52,49,Female,Retired,55804,690,34577,3729,Education,Married,Rent,2,PhD,16,Inactive,Yes,0.13,Yes,0,Part-time,2234,23,Low,USA,Suburban,No,10,991,253,33596
+53,65,Female,Self-Employed,36932,774,35903,7540,Business,Divorced,Own,0,PhD,27,Active,No,0.06,Yes,2,Unemployed,3348,35,High,USA,Rural,No,9,971,13272,2366
+54,38,Male,Retired,110388,765,6775,14310,Car,Single,Own,4,PhD,16,Active,No,0.35,No,1,Self-employed,4191,20,Low,USA,Rural,Yes,16,2588,6353,23896
+55,40,Male,Self-Employed,33474,654,17775,6464,Home,Divorced,Rent,5,High School,5,Inactive,No,0.31,No,5,Self-employed,4539,50,Medium,USA,Urban,No,2,2420,14490,42378
+56,37,Female,Employed,66129,839,5862,10171,Medical,Married,Rent,0,Master's,26,Inactive,Yes,0.28,Yes,4,Unemployed,2895,47,High,USA,Rural,Yes,14,2841,21359,13336
+57,38,Female,Self-Employed,28109,810,7783,11253,Travel,Single,Rent,0,Bachelor's,22,Inactive,No,0.23,Yes,2,Self-employed,4759,28,Medium,USA,Suburban,No,19,714,20672,43421
+58,39,Male,Unemployed,32387,777,19621,8257,Travel,Divorced,Rent,2,High School,18,Active,No,0.16,No,1,Full-time,2268,45,Medium,USA,Rural,No,4,2656,3062,43337
+59,60,Female,Unemployed,22389,765,21241,5906,Home,Married,Own,1,Bachelor's,4,Active,Yes,0.15,Yes,4,Full-time,3711,31,High,USA,Urban,No,4,1164,5925,46406
+60,57,Male,Retired,25726,790,24874,7783,Medical,Divorced,Own,5,PhD,7,Active,No,0.39,No,1,Self-employed,3778,46,Medium,USA,Suburban,No,12,2559,17283,28437
+61,28,Male,Self-Employed,52768,606,43020,15747,Education,Divorced,Rent,5,High School,9,Active,Yes,0.15,Yes,3,Full-time,4876,24,Medium,USA,Suburban,Yes,13,718,12991,33899
+62,41,Male,Retired,30696,771,15715,923,Education,Single,Own,1,Bachelor's,1,Inactive,No,0.29,Yes,5,Unemployed,2837,49,Low,USA,Urban,Yes,8,1383,4899,36966
+63,64,Female,Employed,57762,701,20736,3992,Car,Single,Own,5,PhD,2,Active,No,0.26,Yes,5,Part-time,3943,19,Medium,USA,Suburban,Yes,19,1945,7882,38399
+64,44,Male,Employed,88614,764,5435,17237,Business,Divorced,Rent,3,PhD,1,Inactive,No,0.14,Yes,2,Full-time,2412,25,High,USA,Rural,Yes,18,1861,4371,3905
+65,40,Female,Self-Employed,109742,817,46573,15680,Travel,Single,Rent,0,PhD,1,Inactive,Yes,0.07,Yes,0,Self-employed,4823,29,High,USA,Suburban,No,8,649,24683,43395
+66,30,Female,Unemployed,26265,749,18905,4078,Education,Married,Own,5,PhD,28,Inactive,No,0.39,No,5,Unemployed,2504,43,Medium,USA,Urban,No,2,2263,19741,12826
+67,52,Female,Unemployed,33447,620,22490,9687,Education,Married,Own,1,PhD,11,Inactive,Yes,0.3,No,4,Unemployed,2124,50,Low,USA,Urban,No,11,2601,24572,45525
+68,28,Male,Self-Employed,99635,804,3280,4136,Car,Single,Own,2,PhD,30,Active,Yes,0.29,No,2,Unemployed,4125,14,High,USA,Urban,No,12,1787,21284,19264
+69,33,Male,Employed,116426,675,33705,16965,Medical,Divorced,Rent,2,Master's,22,Inactive,Yes,0.4,No,5,Unemployed,1819,17,Low,USA,Urban,No,5,2323,2876,45690
+70,38,Female,Employed,92089,728,20657,5161,Travel,Divorced,Rent,2,Bachelor's,3,Active,Yes,0.13,No,0,Self-employed,3269,46,Medium,USA,Suburban,Yes,19,853,2154,21269
+71,43,Female,Retired,73665,617,9213,10388,Travel,Single,Own,3,Master's,4,Active,Yes,0.2,Yes,0,Part-time,2245,20,Low,USA,Suburban,Yes,11,2625,9307,6168
+72,34,Male,Unemployed,36406,735,41267,17481,Car,Divorced,Rent,4,Bachelor's,5,Inactive,Yes,0.34,Yes,0,Full-time,4885,46,Medium,USA,Rural,Yes,18,2206,20254,42876
+73,19,Female,Unemployed,104136,734,32650,8024,Travel,Married,Own,3,High School,22,Active,Yes,0.2,No,3,Part-time,2393,48,Low,USA,Suburban,No,11,2133,4284,25283
+74,50,Male,Unemployed,51685,818,9029,8764,Medical,Single,Rent,0,High School,9,Inactive,No,0.14,Yes,2,Self-employed,1777,20,Medium,USA,Rural,No,15,1763,16297,2518
+75,23,Female,Retired,51552,690,39230,11563,Car,Single,Own,3,PhD,9,Active,Yes,0.2,No,5,Self-employed,4128,35,Medium,USA,Urban,No,1,2835,18409,13756
+76,41,Female,Employed,70639,838,30514,18017,Education,Divorced,Rent,1,High School,12,Inactive,No,0.25,No,1,Part-time,3467,42,Medium,USA,Rural,Yes,1,659,4490,47765
+77,39,Female,Retired,39521,843,10160,10746,Business,Married,Rent,3,Master's,18,Inactive,No,0.3,No,3,Full-time,2508,31,High,USA,Urban,No,18,1760,23767,46091
+78,58,Male,Retired,54803,696,48277,1682,Business,Married,Rent,4,PhD,4,Active,Yes,0.25,Yes,1,Full-time,2806,30,Medium,USA,Urban,No,6,2180,16443,41073
+79,48,Male,Self-Employed,87984,686,37758,10651,Travel,Married,Own,2,Bachelor's,14,Inactive,No,0.29,No,4,Unemployed,1787,25,Medium,USA,Rural,No,7,1719,9470,47196
+80,31,Female,Unemployed,82888,758,37732,8960,Education,Single,Own,3,Master's,30,Active,No,0.06,Yes,2,Unemployed,3686,26,High,USA,Suburban,Yes,6,2706,8884,37832
+81,62,Female,Self-Employed,34316,702,16889,1663,Travel,Divorced,Rent,5,Bachelor's,1,Active,No,0.17,No,0,Part-time,1021,45,Low,USA,Suburban,No,15,1316,24769,19824
+82,38,Female,Employed,31725,698,36071,1222,Home,Married,Rent,0,PhD,25,Inactive,Yes,0.38,No,0,Full-time,2222,46,High,USA,Urban,No,9,2361,21014,36605
+83,51,Female,Self-Employed,86088,819,18880,6318,Car,Married,Rent,5,PhD,20,Inactive,Yes,0.05,No,2,Part-time,1718,49,High,USA,Suburban,No,16,1843,2842,27269
+84,60,Male,Self-Employed,38430,824,22207,8128,Car,Married,Own,1,PhD,24,Inactive,No,0.16,Yes,2,Self-employed,3837,25,Low,USA,Rural,Yes,14,1756,5233,27569
+85,61,Female,Employed,103717,731,25087,7236,Home,Single,Own,1,PhD,23,Inactive,No,0.3,No,4,Part-time,4120,25,High,USA,Rural,Yes,16,2329,17307,47122
+86,41,Male,Employed,28094,838,14248,18766,Business,Single,Rent,2,PhD,3,Active,No,0.08,No,0,Unemployed,1540,42,Medium,USA,Suburban,Yes,17,2393,22045,21196
+87,64,Male,Retired,53352,581,49877,7140,Business,Single,Rent,3,Master's,22,Active,Yes,0.38,Yes,3,Full-time,2175,36,Low,USA,Urban,No,11,2066,14697,25739
+88,42,Male,Self-Employed,105660,758,8774,5848,Business,Married,Rent,5,Bachelor's,26,Active,Yes,0.39,No,5,Unemployed,3178,34,Low,USA,Urban,No,11,1135,9032,13352
+89,64,Male,Employed,106533,794,41299,512,Home,Single,Rent,0,High School,14,Active,Yes,0.31,No,3,Part-time,3210,23,Low,USA,Urban,No,7,2859,10449,38845
+90,56,Female,Self-Employed,59552,653,44267,17080,Home,Married,Own,2,High School,17,Active,No,0.24,Yes,2,Unemployed,4218,43,Medium,USA,Rural,No,13,1111,9826,25671
+91,29,Female,Self-Employed,49536,733,47371,4730,Medical,Single,Own,3,Bachelor's,12,Active,No,0.12,Yes,3,Self-employed,1378,44,High,USA,Urban,Yes,8,2044,22074,40647
+92,56,Male,Employed,44662,691,32417,6844,Education,Married,Rent,1,Bachelor's,30,Active,No,0.37,Yes,3,Part-time,3261,30,Medium,USA,Suburban,No,17,1971,10106,18141
+93,41,Female,Retired,32924,820,21986,6656,Education,Married,Own,0,Bachelor's,23,Active,Yes,0.14,No,2,Part-time,1803,31,Low,USA,Suburban,Yes,15,2755,21450,45882
+94,39,Female,Retired,114838,831,31200,5512,Travel,Married,Rent,1,PhD,5,Active,Yes,0.34,Yes,5,Full-time,4130,10,Medium,USA,Urban,Yes,2,1118,299,15334
+95,50,Female,Unemployed,27923,827,44206,15986,Car,Single,Own,0,High School,16,Inactive,No,0.06,No,1,Full-time,4760,16,High,USA,Urban,Yes,6,2656,8271,24228
+96,35,Female,Employed,68896,787,31080,18513,Home,Divorced,Rent,2,High School,20,Active,Yes,0.19,No,4,Unemployed,1229,50,Low,USA,Rural,Yes,2,2547,14218,43264
+97,39,Male,Employed,50115,688,46369,18572,Medical,Married,Rent,0,Master's,28,Active,Yes,0.38,No,0,Part-time,3404,19,High,USA,Suburban,Yes,9,1165,18479,16759
+98,54,Female,Unemployed,70311,651,46174,2569,Business,Divorced,Own,0,High School,13,Active,Yes,0.17,No,2,Full-time,3597,27,Medium,USA,Suburban,Yes,11,2765,12301,29301
+99,29,Female,Employed,101083,731,17151,2408,Car,Married,Rent,3,Bachelor's,23,Inactive,No,0.18,Yes,0,Self-employed,2821,33,Medium,USA,Urban,Yes,2,1267,14122,30415
+100,53,Female,Employed,23442,625,24194,18160,Car,Divorced,Own,3,High School,9,Inactive,No,0.32,Yes,4,Part-time,3807,34,Low,USA,Urban,No,9,1599,16158,10563
+101,22,Male,Retired,56170,795,20644,15867,Car,Married,Own,1,PhD,19,Active,No,0.09,No,0,Unemployed,2360,49,Medium,USA,Suburban,No,10,2263,21333,39954
+102,26,Female,Unemployed,99064,682,32392,10295,Home,Married,Own,2,PhD,30,Active,No,0.18,No,2,Full-time,4817,46,Low,USA,Rural,Yes,17,610,23829,31252
+103,63,Male,Retired,58185,615,27813,16361,Home,Divorced,Own,1,Master's,21,Active,No,0.33,Yes,3,Unemployed,3384,35,High,USA,Rural,No,17,650,11781,46982
+104,52,Male,Employed,52536,761,11901,1451,Business,Divorced,Own,2,PhD,3,Active,Yes,0.14,Yes,3,Self-employed,2602,39,High,USA,Rural,Yes,11,600,15819,7851
+105,36,Female,Employed,35213,652,23828,10220,Education,Married,Rent,4,PhD,11,Inactive,Yes,0.2,No,2,Full-time,2229,12,High,USA,Urban,Yes,10,947,22188,11771
+106,65,Male,Self-Employed,92339,661,22691,18345,Medical,Married,Rent,3,Bachelor's,5,Inactive,No,0.06,Yes,3,Unemployed,2592,10,High,USA,Urban,Yes,8,756,18918,7668
+107,52,Male,Unemployed,62727,680,30986,3734,Education,Divorced,Own,4,Master's,19,Inactive,No,0.26,No,2,Unemployed,3528,21,High,USA,Rural,No,19,2917,2777,45047
+108,26,Female,Employed,51270,736,8664,5998,Education,Divorced,Rent,4,PhD,13,Active,No,0.2,No,5,Part-time,3272,20,Medium,USA,Suburban,Yes,5,1788,14778,41593
+109,21,Female,Employed,83518,649,13787,12581,Business,Divorced,Own,3,PhD,13,Inactive,No,0.11,Yes,1,Self-employed,1133,27,Low,USA,Rural,No,5,2373,18535,49661
+110,49,Male,Employed,55112,767,36523,1363,Travel,Married,Rent,3,High School,23,Active,No,0.36,Yes,3,Self-employed,2427,15,Medium,USA,Urban,Yes,6,2908,22581,23978
+111,63,Female,Self-Employed,100760,651,14541,6781,Car,Divorced,Own,4,Master's,19,Active,No,0.39,No,2,Self-employed,4901,42,High,USA,Urban,Yes,13,742,9087,43984
+112,26,Male,Self-Employed,39168,744,17223,12868,Medical,Single,Own,5,PhD,12,Inactive,Yes,0.27,Yes,3,Self-employed,3845,33,Medium,USA,Suburban,No,18,510,24009,7104
+113,64,Female,Unemployed,28300,783,15275,14078,Home,Married,Own,2,Master's,10,Active,No,0.33,Yes,0,Full-time,3564,39,Low,USA,Urban,Yes,14,2369,22,29036
+114,30,Male,Unemployed,40837,720,7117,11810,Education,Single,Own,5,Bachelor's,1,Inactive,No,0.3,Yes,3,Full-time,3882,16,Low,USA,Urban,No,2,1043,19453,15823
+115,51,Female,Employed,21056,755,8903,13838,Travel,Single,Own,0,Bachelor's,12,Active,Yes,0.09,No,2,Part-time,2567,18,High,USA,Rural,Yes,2,2672,18457,1555
+116,57,Male,Retired,66030,689,42161,4960,Medical,Divorced,Own,1,High School,28,Active,Yes,0.31,No,2,Unemployed,2288,18,Low,USA,Suburban,Yes,7,2766,19693,40322
+117,64,Female,Employed,106298,734,14464,16965,Business,Divorced,Rent,5,PhD,9,Active,Yes,0.22,Yes,1,Unemployed,3613,48,Low,USA,Rural,Yes,11,1796,4324,26351
+118,54,Female,Unemployed,91612,668,31868,2391,Car,Divorced,Rent,0,Master's,6,Active,Yes,0.38,No,4,Self-employed,3574,42,Medium,USA,Suburban,No,2,2697,17617,41373
+119,27,Female,Employed,60620,620,34508,6658,Home,Divorced,Own,3,High School,9,Inactive,Yes,0.07,Yes,3,Full-time,2857,49,High,USA,Urban,No,5,989,415,47392
+120,26,Male,Self-Employed,85065,757,35275,16948,Travel,Married,Rent,2,Bachelor's,23,Inactive,Yes,0.32,Yes,2,Unemployed,2114,43,Low,USA,Suburban,Yes,15,2364,16737,24601
+121,21,Female,Self-Employed,68193,660,17719,3371,Business,Divorced,Rent,1,High School,1,Active,Yes,0.07,No,3,Part-time,1733,12,High,USA,Rural,No,7,1818,8135,28279
+122,64,Female,Unemployed,30208,770,8825,16450,Travel,Single,Rent,1,High School,30,Inactive,Yes,0.36,No,2,Self-employed,1353,45,Medium,USA,Urban,No,6,1694,18474,20917
+123,65,Male,Retired,68270,832,13807,17909,Home,Single,Rent,3,High School,7,Inactive,Yes,0.38,Yes,5,Unemployed,4477,29,Low,USA,Urban,Yes,13,2515,1962,10330
+124,63,Female,Employed,25754,698,35062,13535,Travel,Married,Own,5,High School,18,Active,Yes,0.27,No,0,Full-time,2781,18,Low,USA,Suburban,No,10,2109,22961,49192
+125,38,Female,Retired,55645,699,5894,6642,Home,Divorced,Rent,1,High School,5,Inactive,No,0.16,Yes,4,Self-employed,4951,23,Medium,USA,Suburban,No,8,991,2962,11329
+126,61,Female,Employed,48183,747,10720,2988,Travel,Single,Own,3,High School,21,Inactive,No,0.34,Yes,0,Unemployed,4500,38,High,USA,Rural,Yes,3,2392,3339,10161
+127,25,Male,Employed,49135,646,13984,13126,Education,Divorced,Rent,4,Master's,29,Active,Yes,0.4,Yes,5,Unemployed,4314,18,Low,USA,Suburban,Yes,1,2388,1659,12009
+128,54,Female,Retired,85028,595,26082,13980,Home,Married,Rent,1,Master's,8,Inactive,Yes,0.06,Yes,5,Self-employed,3043,36,High,USA,Suburban,Yes,2,1645,12550,9993
+129,44,Male,Self-Employed,102674,589,26067,11767,Medical,Divorced,Own,2,Master's,12,Inactive,Yes,0.06,Yes,0,Self-employed,1239,40,High,USA,Suburban,Yes,5,910,8121,44048
+130,33,Female,Employed,48758,778,24252,5692,Home,Single,Own,5,Master's,29,Active,No,0.38,Yes,4,Part-time,4427,41,High,USA,Suburban,Yes,15,655,2957,4681
+131,32,Male,Employed,89002,824,1044,10870,Business,Single,Rent,2,Bachelor's,29,Inactive,Yes,0.06,Yes,0,Self-employed,4934,14,Medium,USA,Rural,No,18,913,11028,20776
+132,38,Male,Self-Employed,115990,803,42894,15964,Travel,Married,Rent,5,Master's,7,Active,No,0.16,No,1,Part-time,3985,10,High,USA,Rural,No,18,632,5966,40478
+133,38,Male,Employed,85035,652,22703,2549,Home,Married,Own,1,High School,26,Inactive,No,0.05,Yes,1,Full-time,2435,26,Low,USA,Rural,Yes,1,2080,14359,49010
+134,44,Male,Retired,84629,773,24018,17892,Medical,Single,Own,4,Bachelor's,5,Inactive,Yes,0.33,Yes,2,Full-time,2305,26,Low,USA,Urban,No,5,2037,5272,48971
+135,22,Male,Unemployed,97860,827,47170,1015,Medical,Divorced,Rent,4,PhD,5,Active,Yes,0.17,Yes,3,Self-employed,3705,28,Medium,USA,Urban,Yes,1,2109,18735,37022
+136,49,Male,Employed,67294,581,29023,2871,Education,Divorced,Own,1,High School,0,Active,Yes,0.27,Yes,3,Full-time,2263,35,Medium,USA,Suburban,No,2,2728,12698,13116
+137,41,Female,Unemployed,44455,808,3924,8627,Medical,Married,Own,1,Master's,18,Active,Yes,0.31,Yes,0,Self-employed,4310,44,Medium,USA,Rural,Yes,17,749,12684,35247
+138,44,Female,Self-Employed,82424,733,6174,12936,Travel,Single,Rent,0,PhD,5,Active,Yes,0.33,Yes,0,Unemployed,1320,37,Low,USA,Rural,Yes,19,1556,10477,48651
+139,22,Male,Retired,92923,783,37179,10686,Education,Divorced,Own,0,PhD,3,Inactive,Yes,0.1,Yes,0,Full-time,4218,28,High,USA,Suburban,No,8,2068,21456,32823
+140,54,Female,Employed,42570,721,27409,4713,Business,Divorced,Own,0,PhD,28,Inactive,Yes,0.07,No,2,Self-employed,1082,31,Medium,USA,Suburban,No,15,902,7469,9807
+141,37,Female,Unemployed,55313,793,40647,2925,Home,Married,Rent,3,PhD,24,Inactive,Yes,0.23,Yes,0,Self-employed,3906,42,Medium,USA,Urban,Yes,5,1289,6577,4776
+142,33,Male,Retired,26626,764,47178,6524,Education,Married,Own,4,PhD,20,Active,Yes,0.13,No,4,Unemployed,1727,40,High,USA,Rural,No,11,1169,8475,46144
+143,23,Female,Employed,70667,605,11676,18751,Home,Single,Rent,5,Bachelor's,8,Inactive,Yes,0.35,Yes,3,Part-time,3651,21,High,USA,Urban,Yes,8,2991,10009,47710
+144,63,Female,Retired,69345,758,31080,8257,Home,Married,Own,5,PhD,18,Active,Yes,0.23,No,4,Self-employed,2222,16,Medium,USA,Urban,No,8,1831,9072,18114
+145,59,Female,Self-Employed,39651,844,16748,1860,Business,Married,Own,5,Bachelor's,23,Active,No,0.4,No,3,Unemployed,2590,12,High,USA,Rural,Yes,10,1410,22489,36037
+146,58,Female,Unemployed,86494,733,12140,18292,Home,Married,Rent,3,Bachelor's,23,Inactive,Yes,0.38,No,5,Full-time,1910,32,Low,USA,Rural,No,13,1857,12179,18076
+147,55,Female,Retired,35437,820,4517,19122,Business,Divorced,Rent,3,Bachelor's,16,Active,No,0.24,No,0,Part-time,1562,22,Medium,USA,Suburban,No,4,1795,23451,12819
+148,23,Female,Unemployed,102710,670,21539,1900,Car,Married,Own,1,Bachelor's,18,Active,No,0.32,Yes,1,Unemployed,3594,37,Medium,USA,Suburban,No,12,519,1236,35981
+149,30,Female,Employed,62233,677,2174,135,Travel,Divorced,Rent,1,Master's,9,Active,Yes,0.18,No,1,Full-time,4374,12,Medium,USA,Suburban,No,16,2942,17174,23140
+150,45,Male,Unemployed,84248,763,13348,5402,Medical,Single,Rent,1,Bachelor's,6,Active,Yes,0.09,Yes,3,Self-employed,4159,44,High,USA,Urban,Yes,3,580,1580,46203
